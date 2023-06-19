@@ -3,7 +3,7 @@
 # Description
 A simple weather app developed using Python Tkinter library and AccuWeather API. This project is solely targetted for newbies getting started with
 Python GUI development and using APIs with Python. The application has minimum styling and focuses more on API usage and GUI development.
-A user can simply enter a city and get the weather details as illustrated in the figure below.
+This application allows a user to simply enter a city and get the weather details as illustrated in the figure below.
 
 
 <p align="center">
