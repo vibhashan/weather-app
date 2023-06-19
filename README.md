@@ -24,5 +24,5 @@ However you can simply create a free API account from "https://developer.accuwea
 <br />
 
 <p> Play around with the application and modify it as you need to be familiar with Tkinter GUI and API usage with Python. </p>
-<p> Feel free to shary any suggestions as well 👍 </p> 
+<p> Feel free to share any suggestions as well 👍 </p> 
 
